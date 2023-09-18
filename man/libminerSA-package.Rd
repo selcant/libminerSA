@@ -12,6 +12,7 @@ rovides functions for learning about your R libraries, and the packages you have
 Useful links:
 \itemize{
   \item \url{https://github.com/selcant/libminerSA}
+  \item \url{https://selcant.github.io/libminerSA/}
   \item Report bugs at \url{https://github.com/selcant/libminerSA/issues}
 }
 
