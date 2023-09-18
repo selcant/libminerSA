@@ -38,4 +38,3 @@ library(libminerSA)
 ## basic example code
 lib_summary()
 ```
-

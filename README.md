@@ -27,10 +27,10 @@ use the `lib_summary()` function:
 library(libminerSA)
 ## basic example code
 lib_summary()
-#>                                                                                        Library
-#> 1                        /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/library
-#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpJVC452/temp_libpath3d1e7644d56a
-#> 3                                                   /Users/aydins/Library/R/x86_64/4.3/library
+#>                                                                                       Library
+#> 1                       /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/library
+#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpJVC452/temp_libpath3d1ef08702b
+#> 3                                                  /Users/aydins/Library/R/x86_64/4.3/library
 #>   n_packages
 #> 1         29
 #> 2          1
