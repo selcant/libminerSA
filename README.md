@@ -30,7 +30,7 @@ library(libminerSA)
 lib_summary()
 #>                                                                                        Library
 #> 1                        /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/library
-#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpxkkxxR/temp_libpath69a115f099b2
+#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpR74duw/temp_libpath6ba95aa9de0d
 #> 3                                                   /Users/aydins/Library/R/x86_64/4.3/library
 #>   n_packages
 #> 1         29
@@ -40,10 +40,10 @@ lib_summary()
 lib_summary(sizes = TRUE)
 #>                                                                                        Library
 #> 1                        /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/library
-#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpxkkxxR/temp_libpath69a115f099b2
+#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpR74duw/temp_libpath6ba95aa9de0d
 #> 3                                                   /Users/aydins/Library/R/x86_64/4.3/library
 #>   n_packages  lib_size
 #> 1         29  73048407
-#> 2          1     14575
+#> 2          1     14572
 #> 3        153 422059116
 ```

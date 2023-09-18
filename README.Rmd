@@ -40,4 +40,3 @@ lib_summary()
 # specify `sizes = TRUE` to calculate the total size on disk of your packages
 lib_summary(sizes = TRUE)
 ```
-
