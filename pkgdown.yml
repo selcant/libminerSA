@@ -1,0 +1,10 @@
+pandoc: 2.19.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  short-name: short-name.html
+last_built: 2023-09-18T19:45Z
+urls:
+  reference: https://selcant.github.io/libminerSA/reference
+  article: https://selcant.github.io/libminerSA/articles
+
