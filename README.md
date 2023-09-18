@@ -4,6 +4,8 @@
 # libminerSA
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/selcant/libminerSA/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/selcant/libminerSA/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of libminer is to provide an overview of your R library setup.
@@ -30,7 +32,7 @@ library(libminerSA)
 lib_summary()
 #>                                                                                        Library
 #> 1                        /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/library
-#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpR74duw/temp_libpath6ba95aa9de0d
+#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpR74duw/temp_libpath6ba94474d911
 #> 3                                                   /Users/aydins/Library/R/x86_64/4.3/library
 #>   n_packages
 #> 1         29
@@ -40,10 +42,10 @@ lib_summary()
 lib_summary(sizes = TRUE)
 #>                                                                                        Library
 #> 1                        /Library/Frameworks/R.framework/Versions/4.3-x86_64/Resources/library
-#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpR74duw/temp_libpath6ba95aa9de0d
+#> 2 /private/var/folders/wq/cd6p77z56bd7x_n52qc8yk81kxjmtr/T/RtmpR74duw/temp_libpath6ba94474d911
 #> 3                                                   /Users/aydins/Library/R/x86_64/4.3/library
 #>   n_packages  lib_size
 #> 1         29  73048407
-#> 2          1     14572
+#> 2          1     14574
 #> 3        153 422059116
 ```
